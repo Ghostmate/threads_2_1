@@ -14,6 +14,6 @@ for i in numbers:
             not_primes.append(i)
 
 
-print(primes)
-print(not_primes)
+print('Primes: ',primes)
+print('Not primes: ',not_primes)
 
